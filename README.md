@@ -4,6 +4,7 @@
 - Super-Resolution Version
   - [Google Chrome Comic (English)](./english)
   - [Google Chrome Comic (Textless)](./textless)
+  - [Google Chrome 漫画书高清汉化版](./chinese)
 
 ## All words
 
