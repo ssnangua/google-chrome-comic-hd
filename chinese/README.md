@@ -35,6 +35,9 @@
 <img src="images/32.jpg" width="800" />
 <img src="images/33.jpg" width="800" />
 <img src="images/34.jpg" width="800" />
+
+_\* **译者注**：[Gears 特性已被弃用](https://gearsblog.blogspot.com/2011/03/stopping-gears.html)_
+
 <img src="images/35.jpg" width="800" />
 <img src="images/36.jpg" width="800" />
 <img src="images/37.jpg" width="800" />
