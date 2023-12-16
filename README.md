@@ -3,6 +3,7 @@
 - [Official Version (English)](https://www.google.com/googlebooks/chrome/)
 - Super-Resolution Version
   - [Google Chrome Comic (English)](./english)
+  - [Google Chrome Comic (Textless)](./textless)
 
 ## All words
 
